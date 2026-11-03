@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**ifseffy/ifseffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy Sefora
 
-Here are some ideas to get you started:
+Soy estudiante de Desarrollo de Aplicaciones Web (DAW).
+Me interesa el desarrollo de software y seguir aprendiendo
+nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías que estoy aprendiendo
+
+- HTML
+- CSS
+- Java
+- JavaScript
+- Git y GitHub
+- Bases de datos
+
+## 🌐 Mi portfolio
+
+Próximamente añadiré aquí el enlace a mi portfolio
+publicado con GitHub Pages.
