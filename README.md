@@ -16,5 +16,4 @@ nuevas tecnologías.
 
 ## 🌐 Mi portfolio
 
-Próximamente añadiré aquí el enlace a mi portfolio
-publicado con GitHub Pages.
+[Ver mi portfolio personal](https://ifseffy.github.io/-mi-portfolio/)
