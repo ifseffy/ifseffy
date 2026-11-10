@@ -10,7 +10,7 @@ nuevas tecnologías.
 - HTML
 - CSS
 - Java
-- JavaScript
+- Virtualización
 - Git y GitHub
 - Bases de datos
 
